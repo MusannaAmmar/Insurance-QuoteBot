@@ -1,0 +1,9 @@
+selenium
+beautifulsoup4
+requests
+openai
+pydantic
+loguru
+fastapi
+uvicorn
+dotenv
